@@ -1,0 +1,29 @@
+{
+    "code": 1,
+    "message": "获取权限成功",
+    "data": [
+        {
+            "name": "index"
+        },
+        {
+            "name": "admin",
+            "children": [
+                {
+                    "name": "category"
+                },
+                {
+                    "name": "goods"
+                },
+                {
+                    "name": "order"
+                },
+                {
+                    "name": "persaddress"
+                },
+                {
+                    "name": "persorder"
+                }
+            ]
+        }
+    ]
+}

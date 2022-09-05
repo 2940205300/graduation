@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "获取权限成功",
+    "data": [
+        {
+            "name": "index"
+        },
+        {
+            "name": "personal",
+            "children": [
+                {
+                    "name": "persaddress"
+                },
+                {
+                    "name": "persorder"
+                }
+            ]
+        }
+    ]
+}
